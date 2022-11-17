@@ -1,0 +1,14 @@
+@media only screen and (max-width: 425px) {
+  .mobile-none-display {
+    display: none;
+  }
+
+  .category-title {
+    justify-content: start;
+  }
+
+  .category-title a {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
